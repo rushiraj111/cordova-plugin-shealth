@@ -51,7 +51,7 @@
         </config-file>
         <source-file src="src/android/ShealthPlugin.java" target-dir="src/com/cordova/shealth/" />
         <source-file src="src/android/StepCountReader.java" target-dir="src/com/cordova/shealth/" />
-        <source-file src="src/android/samsung-health-data-v1.3.0.jar" target-dir="libs" framework="true" />
+        <source-file src="src/android/samsung-health-data-v1.5.0.aar" target-dir="libs" framework="true" />
         <source-file src="src/android/sdk-v1.0.0.jar" target-dir="libs" framework="true" />
     </platform>
 </plugin>

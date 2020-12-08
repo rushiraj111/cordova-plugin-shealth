@@ -18,7 +18,7 @@
 
 package com.cordova.shealth;
 
-import com.globetrekkerchallenge.app.R;
+import com.timihealth.timifit;
 import com.samsung.android.sdk.healthdata.HealthConnectionErrorResult;
 import com.samsung.android.sdk.healthdata.HealthConstants.StepCount;
 import com.samsung.android.sdk.healthdata.HealthConstants.Sleep;
